@@ -5,7 +5,7 @@ I'm a passionate IT/CS student and developer with a focus on **Web Development, 
 ---
 
 ## 🚀 About Me
-- Currently pursuing [Your Degree] at [Your University]  
+- Currently pursuing Computer Science at The Pennsylvania State University
 - Experienced in **programming, DevOps, networking, and cybersecurity**  
 - Always learning and experimenting with **new tools and frameworks**  
 - Enjoys mentoring and helping others learn technical skills  
@@ -27,7 +27,7 @@ I'm a passionate IT/CS student and developer with a focus on **Web Development, 
 ---
 
 ## 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true&theme=radical)
+![Cynid-22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cynid-22&show_icons=true&theme=radical)
 
 ---
 
@@ -37,15 +37,13 @@ Here are some of my key projects:
 - **SHA-256 Implementation** – Custom cryptographic hashing algorithm in Python  
 - **Wordle Solver** – Automated solver using constraint logic and frequency analysis  
 - **Valorant Game Analyzer** – Analyzed match performance via Riot Games API  
-- **[Other Project]** – Brief description here  
 
 ---
 
 ## 📫 Connect with Me
-- Email: [your email]  
-- Portfolio: [your portfolio link]  
-- LinkedIn: [your LinkedIn]  
+- Email: khangnvu.work@gmail.com 
+- LinkedIn: linkedin.com/in/khang-nguyen-vu/ 
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> "Programming isn’t about what you know; it’s about what you can figure out." — Chris Pine
