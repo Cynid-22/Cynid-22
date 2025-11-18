@@ -50,11 +50,11 @@ While badges represent my tools, here are my core technical competencies:
 
 ## 📂 Featured Projects
 
-| Project Name | Description & Key Skills | Details |
+| Project Name | Description  | Skills |
 | :--- | :--- | :--- |
-| **🔐 Secure Hash Algorithm (SHA) From Scratch** | **Cryptography & Low-Level Implementation** <br>Implemented the full SHA cryptographic hashing algorithm from the ground up in **Python** (includes message preprocessing, block parsing, and compression). | * **Resume Skills:** Bitwise operations, modular arithmetic, data processing, Cryptography. |
-| **🤖 NYT Wordle Solver Algorithm** | **Algorithmic Logic & Data Analysis** <br>Built an automated solver for the NYT Wordle game using constraint filtering, frequency analysis, and pattern matching. | * **Resume Skills:** Constraint filtering, Frequency analysis, Statistical likelihood, Python programming. |
-| **🎮 Valorant Player Performance Analytics System** | **API Integration & Data Engineering** <br>Developed a game analysis tool leveraging the **Riot Games API** to collect, process, and analyze player data and match performance. | * **Resume Skills:** API Integration, Data Analysis, Python, Data Extraction. |
+| **🔐 Secure Hash Algorithm (SHA) From Scratch** | **Cryptography & Low-Level Implementation** <br>Implemented the full SHA cryptographic hashing algorithm from the ground up in **Python** (includes message preprocessing, block parsing, and compression). | Bitwise operations, modular arithmetic, data processing, and Cryptography. |
+| **🤖 NYT Wordle Solver Algorithm** | **Algorithmic Logic & Data Analysis** <br>Built an automated solver for the NYT Wordle game using constraint filtering, frequency analysis, and pattern matching. | Constraint filtering, Frequency analysis, Statistical likelihood, Python programming. |
+| **🎮 Valorant Player Performance Analytics System** | **API Integration & Data Engineering** <br>Developed a game analysis tool leveraging the **Riot Games API** to collect, process, and analyze player data and match performance. | API Integration, Data Analysis, Python, Data Extraction. |
 
 ---
 
