@@ -1,10 +1,8 @@
 # Hi there 👋, I'm [Your Name]
 
 <p align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+passionate+IT/CS+student;with+a+focus+on+Web+Development,;Systems,+and+Cybersecurity.;Always+building+and+learning.&font=Montserrat&size=24&duration=4000&pause=500&color=9C27B0&center=true&vCenter=true&width=500&height=55" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+passionate+IT/CS+student;focusing+on+Cybersecurity;and+Network+Systems.;Always+building+and+learning.&font=Montserrat&size=24&duration=4000&pause=500&color=9C27B0&center=true&vCenter=true&width=500&height=55" />
 </p>
-
-I'm a passionate IT/CS student and developer. I love exploring new technologies, building projects, and sharing knowledge.
 
 ---
 
