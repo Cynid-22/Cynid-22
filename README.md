@@ -1,7 +1,7 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Khang Vu
 
-<p align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+passionate+IT/CS+student;focusing+on+Cybersecurity;and+Network+Systems.;Always+building+and+learning.&font=Montserrat&size=24&duration=4000&pause=500&color=9C27B0&center=true&vCenter=true&width=500&height=55" />
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+passionate+IT/CS+student;focusing+on+Cybersecurity;and+Network+Systems.;Always+building+and+learning.&font=Montserrat&size=32&duration=4000&pause=500&color=4AF626&center=true&vCenter=true&width=500&height=55" />
 </p>
 
 ---
