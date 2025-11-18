@@ -4,8 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+passionate+IT/CS+student;focusing+on+Cybersecurity;and+Network+Systems.;Always+building+and+learning.&font=Montserrat&size=32&duration=4000&pause=500&color=4AF626&center=true&vCenter=true&width=500&height=55" />
 </p>
 
----
-
 ## 🚀 About Me
 - Currently pursuing Computer Science at The Pennsylvania State University
 - Experienced in **programming, DevOps, networking, and cybersecurity**
@@ -45,12 +43,10 @@ While badges represent my tools, here are my core technical competencies:
 * **Networking:** TCP/IP (IPv4/IPv6), DNS, DHCP, VLANs, Switch & Router Configuration, Hyper-V.
 * **Cybersecurity:** Cryptography (AES, RSA, ECC, DH), Hashing (SHA, bcrypt, Argon2, PBKDF2), and Vulnerability Analysis.
 
----
 
 ## 📊 GitHub Stats
 ![Cynid-22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cynid-22&show_icons=true&theme=radical)
 
----
 
 ## 📂 Featured Projects
 
