@@ -1,6 +1,10 @@
 # Hi there 👋, I'm [Your Name]
 
-I'm a passionate IT/CS student and developer with a focus on **Web Development, Systems, and Cybersecurity**. I love exploring new technologies, building projects, and sharing knowledge.
+<p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+passionate+IT/CS+student;with+a+focus+on+Web+Development,;Systems,+and+Cybersecurity.;Always+building+and+learning.&font=Montserrat&size=24&duration=4000&pause=500&color=9C27B0&center=true&vCenter=true&width=500&height=55" />
+</p>
+
+I'm a passionate IT/CS student and developer. I love exploring new technologies, building projects, and sharing knowledge.
 
 ---
 
@@ -50,8 +54,6 @@ While badges represent my tools, here are my core technical competencies:
 
 ---
 
----
-
 ## 📂 Featured Projects
 
 | Project Name | Description & Key Skills | Details |
@@ -60,10 +62,6 @@ While badges represent my tools, here are my core technical competencies:
 | **🤖 NYT Wordle Solver Algorithm** | **Algorithmic Logic & Data Analysis** <br>Built an automated solver for the NYT Wordle game using constraint filtering, frequency analysis, and pattern matching. | * **Resume Skills:** Constraint filtering, Frequency analysis, Statistical likelihood, Python programming. |
 | **🎮 Valorant Player Performance Analytics System** | **API Integration & Data Engineering** <br>Developed a game analysis tool leveraging the **Riot Games API** to collect, process, and analyze player data and match performance. | * **Resume Skills:** API Integration, Data Analysis, Python, Data Extraction. |
 
----
-
-## 📊 GitHub Stats
-... (Rest of your profile)
 ---
 
 ## 📫 Connect with Me
