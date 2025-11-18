@@ -50,13 +50,20 @@ While badges represent my tools, here are my core technical competencies:
 
 ---
 
-## 📂 Projects
-Here are some of my key projects:
+---
 
-- **SHA-256 Implementation** – Custom cryptographic hashing algorithm in Python
-- **Wordle Solver** – Automated solver using constraint logic and frequency analysis
-- **Valorant Game Analyzer** – Analyzed match performance via Riot Games API
+## 📂 Featured Projects
 
+| Project Name | Description & Key Skills | Details |
+| :--- | :--- | :--- |
+| **🔐 Secure Hash Algorithm (SHA) From Scratch** | **Cryptography & Low-Level Implementation** <br>Implemented the full SHA cryptographic hashing algorithm from the ground up in **Python** (includes message preprocessing, block parsing, and compression). | * **Resume Skills:** Bitwise operations, modular arithmetic, data processing, Cryptography. |
+| **🤖 NYT Wordle Solver Algorithm** | **Algorithmic Logic & Data Analysis** <br>Built an automated solver for the NYT Wordle game using constraint filtering, frequency analysis, and pattern matching. | * **Resume Skills:** Constraint filtering, Frequency analysis, Statistical likelihood, Python programming. |
+| **🎮 Valorant Player Performance Analytics System** | **API Integration & Data Engineering** <br>Developed a game analysis tool leveraging the **Riot Games API** to collect, process, and analyze player data and match performance. | * **Resume Skills:** API Integration, Data Analysis, Python, Data Extraction. |
+
+---
+
+## 📊 GitHub Stats
+... (Rest of your profile)
 ---
 
 ## 📫 Connect with Me
