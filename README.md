@@ -12,6 +12,27 @@
 
 ---
 
+## 📂 Featured Projects
+
+<details open>
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/Cynid-22/TOTP-Authenticator">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=TOTP-Authenticator&theme=radical&bg_color=1F222E&title_color=E91E63&hide_border=true&icon_color=F8D866&show_icons=false" alt="TOTP-Authenticator">
+    </a>
+    <a href="https://github.com/Cynid-22/Secure-Hash-Algorithm">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=Secure-Hash-Algorithm&theme=radical&bg_color=1F222E&title_color=E91E63&hide_border=true&icon_color=F8D866&show_icons=false" alt="SHA-256-Implementation">
+    </a>
+      
+  </p>
+
+  <a href="https://github.com/Cynid-22?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+## 📊 GitHub Stats
+![Cynid-22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cynid-22&show_icons=true&theme=radical)
+
 ## 💻 My Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -42,19 +63,6 @@
 While badges represent my tools, here are my core technical competencies:
 * **Networking:** TCP/IP (IPv4/IPv6), DNS, DHCP, VLANs, Switch & Router Configuration, Hyper-V.
 * **Cybersecurity:** Cryptography (AES, RSA, ECC, DH), Hashing (SHA, bcrypt, Argon2, PBKDF2), and Vulnerability Analysis.
-
-
-## 📊 GitHub Stats
-![Cynid-22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cynid-22&show_icons=true&theme=radical)
-
-
-## 📂 Featured Projects
-
-| Project Name | Description  | Skills |
-| :--- | :--- | :--- |
-| **🔐 Secure Hash Algorithm (SHA) From Scratch** | **Cryptography & Low-Level Implementation** <br>Implemented the full SHA cryptographic hashing algorithm from the ground up in **Python** (includes message preprocessing, block parsing, and compression). | Bitwise operations, modular arithmetic, data processing, and Cryptography. |
-| **🤖 NYT Wordle Solver Algorithm** | **Algorithmic Logic & Data Analysis** <br>Built an automated solver for the NYT Wordle game using constraint filtering, frequency analysis, and pattern matching. | Constraint filtering, Frequency analysis, Statistical likelihood, Python programming. |
-| **🎮 Valorant Player Performance Analytics System** | **API Integration & Data Engineering** <br>Developed a game analysis tool leveraging the **Riot Games API** to collect, process, and analyze player data and match performance. | API Integration, Data Analysis, Python, Data Extraction. |
 
 ---
 
