@@ -18,10 +18,10 @@ def load_config():
         return json.load(f)
 
 
-def fetch_repos_with_topic(username, topic):
+def fetch_repos_with_topic(username, topic, repo_order=None):
     """
     Fetch repositories for a user that have a specific topic.
-    Returns list of repos sorted by stars (descending).
+    Returns list of repos sorted by manual order (if provided), then by stars.
     """
     # GitHub API endpoint for user repositories
     api_url = f'https://api.github.com/users/{username}/repos?per_page=100&sort=updated'
@@ -44,8 +44,26 @@ def fetch_repos_with_topic(username, topic):
                     'updated': repo['updated_at']
                 })
         
-        # Sort by stars (descending), then by name
-        featured_repos.sort(key=lambda x: (-x['stars'], x['name']))
+        # Sort based on manual order if provided, otherwise by stars
+        if repo_order:
+            # Create a dict for easy lookup
+            repo_dict = {repo['name']: repo for repo in featured_repos}
+            
+            # First, add repos in the specified order
+            sorted_repos = []
+            for repo_name in repo_order:
+                if repo_name in repo_dict:
+                    sorted_repos.append(repo_dict[repo_name])
+            
+            # Then add any remaining repos (not in manual order) sorted by stars
+            remaining_repos = [repo for repo in featured_repos if repo['name'] not in repo_order]
+            remaining_repos.sort(key=lambda x: (-x['stars'], x['name']))
+            sorted_repos.extend(remaining_repos)
+            
+            featured_repos = sorted_repos
+        else:
+            # Default: Sort by stars (descending), then by name
+            featured_repos.sort(key=lambda x: (-x['stars'], x['name']))
         
         return [repo['name'] for repo in featured_repos]
         
@@ -56,6 +74,7 @@ def fetch_repos_with_topic(username, topic):
     except Exception as e:
         print(f"Unexpected error: {e}")
         return []
+
 
 
 def generate_repo_card(username, repo_name, theme):
@@ -89,11 +108,12 @@ def update_readme():
     theme = config['theme']
     username = config.get('username', 'Cynid-22')
     topic = config.get('topic', 'readme-profile')
+    repo_order = config.get('repo_order', None)  # Optional manual ordering
     
     print(f"Fetching repos for user '{username}' with topic '{topic}'...")
     
     # Fetch repositories with the specified topic from GitHub API
-    repos = fetch_repos_with_topic(username, topic)
+    repos = fetch_repos_with_topic(username, topic, repo_order)
     
     if not repos:
         print(f"No repositories found with topic '{topic}'")

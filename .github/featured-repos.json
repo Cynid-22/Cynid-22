@@ -1,6 +1,10 @@
 {
     "username": "Cynid-22",
     "topic": "readme-profile",
+    "repo_order": [
+        "TOTP-Authenticator",
+        "Secure-Hash-Algorithm"
+    ],
     "theme": {
         "name": "radical",
         "bg_color": "1F222E",
