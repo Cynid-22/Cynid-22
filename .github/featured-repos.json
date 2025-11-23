@@ -1,0 +1,12 @@
+{
+    "username": "Cynid-22",
+    "topic": "readme-profile",
+    "theme": {
+        "name": "radical",
+        "bg_color": "1F222E",
+        "title_color": "E91E63",
+        "icon_color": "F8D866",
+        "hide_border": true,
+        "show_icons": false
+    }
+}
