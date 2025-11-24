@@ -1,4 +1,4 @@
-# Automated README Repository Updates (Topic-Based)
+# Automated README Repository Updates (Topic-Based) for anyone who wants to feature their repositories in their README.md
 
 This system automatically discovers and displays your GitHub repositories based on topics - no manual configuration needed!
 
