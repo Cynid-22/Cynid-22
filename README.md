@@ -16,7 +16,9 @@
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/Cynid-22/TOTP-Authenticator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=TOTP-Authenticator&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1764486653" alt="TOTP-Authenticator"></a><br/>    <a href="https://github.com/Cynid-22/Hashing-Algorithm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=Hashing-Algorithm&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1764486653" alt="Hashing-Algorithm"></a><br/>
+    <a href="https://github.com/Cynid-22/TOTP-Authenticator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=TOTP-Authenticator&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1764486809" alt="TOTP-Authenticator"></a>
+    <a href="https://github.com/Cynid-22/Hashing-Algorithm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=Hashing-Algorithm&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1764486809" alt="Hashing-Algorithm"></a>
+
   </p>
 
   <a href="https://github.com/Cynid-22?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
