@@ -12,8 +12,6 @@
 
 ---
 
-## 📂 Featured Projects
-
 <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
@@ -29,8 +27,8 @@
 </details>
 
 
-
-## 💻 My Tech Stack
+<details open>
+    <summary><h2> 💻 My Tech Stack</h2></summary>
 
 ### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,8 +57,10 @@
 While badges represent my tools, here are my core technical competencies:
 * **Networking:** TCP/IP (IPv4/IPv6), DNS, DHCP, VLANs, Switch & Router Configuration, Hyper-V.
 * **Cybersecurity:** Cryptography (AES, RSA, ECC, DH), Hashing (SHA, bcrypt, Argon2, PBKDF2), and Vulnerability Analysis.
+</details>
 
-<details>
+
+<details open>
   <summary><h2>📊 My GitHub Stats</h2></summary>
   <br/>
   <a href="#"><img alt="Cynid-22's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Cynid-22&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
