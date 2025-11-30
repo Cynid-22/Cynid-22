@@ -17,9 +17,9 @@
 
   <p align="left">
     <a href="https://github.com/Cynid-22/TOTP-Authenticator">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=TOTP-Authenticator&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1732940000" alt="TOTP-Authenticator">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=TOTP-Authenticator&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1764476538" alt="TOTP-Authenticator">
     </a>    <a href="https://github.com/Cynid-22/Hashing-Algorithm">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=Hashing-Algorithm&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hashing-Algorithm">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=Hashing-Algorithm&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1764476538" alt="Hashing-Algorithm">
     </a>
   </p>
 
