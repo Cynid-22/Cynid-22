@@ -100,9 +100,7 @@ def generate_repo_card(username, repo_name, theme):
     
     query_string = '&'.join(params)
     
-    return f'''    <a href="https://github.com/{username}/{repo_name}">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?{query_string}" alt="{repo_name}">
-    </a>'''
+    return f'''    <a href="https://github.com/{username}/{repo_name}"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?{query_string}" alt="{repo_name}"></a>'''
 
 
 def update_readme():
