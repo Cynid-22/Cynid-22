@@ -8,6 +8,7 @@ import json
 import re
 import urllib.request
 import urllib.error
+import time
 from pathlib import Path
 
 
@@ -93,6 +94,9 @@ def generate_repo_card(username, repo_name, theme):
     
     if not theme.get('show_icons', True):
         params.append('show_icons=false')
+    
+    # Add timestamp to force cache refresh
+    params.append(f"timestamp={int(time.time())}")
     
     query_string = '&'.join(params)
     
