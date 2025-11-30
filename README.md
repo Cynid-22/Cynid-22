@@ -29,7 +29,7 @@
 </details>
 
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 ![Cynid-22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cynid-22&show_icons=true&theme=radical)
 
 ## 💻 My Tech Stack
