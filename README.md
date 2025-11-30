@@ -45,7 +45,6 @@
 ### ♾️ DevOps, Cloud & Hosting
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -64,8 +63,8 @@ While badges represent my tools, here are my core technical competencies:
 <details>
   <summary><h2>📊 My GitHub Stats</h2></summary>
   <br/>
-  <a href="#"><img alt="Cynid-22's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Cynid-22&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="#"><img alt="Cynid-22's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Cynid-22&langs_count=10&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="#"><img alt="Cynid-22's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Cynid-22&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a href="#"><img alt="Cynid-22's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Cynid-22&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" /></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
