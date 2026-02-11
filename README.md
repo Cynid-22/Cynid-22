@@ -16,9 +16,9 @@
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/Cynid-22/TOTP-Authenticator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=TOTP-Authenticator&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1770728103" alt="TOTP-Authenticator"></a>
-    <a href="https://github.com/Cynid-22/Flight-Tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=Flight-Tracker&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1770728103" alt="Flight-Tracker"></a>
-    <a href="https://github.com/Cynid-22/Hashing-Algorithm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=Hashing-Algorithm&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1770728103" alt="Hashing-Algorithm"></a>
+    <a href="https://github.com/Cynid-22/TOTP-Authenticator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=TOTP-Authenticator&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1770814271" alt="TOTP-Authenticator"></a>
+    <a href="https://github.com/Cynid-22/Flight-Tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=Flight-Tracker&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1770814271" alt="Flight-Tracker"></a>
+    <a href="https://github.com/Cynid-22/Hashing-Algorithm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=Hashing-Algorithm&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1770814271" alt="Hashing-Algorithm"></a>
 
   </p>
 
