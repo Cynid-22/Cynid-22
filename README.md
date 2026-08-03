@@ -16,10 +16,10 @@
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/Cynid-22/TOTP-Authenticator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=TOTP-Authenticator&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1785675784" alt="TOTP-Authenticator"></a>
-    <a href="https://github.com/Cynid-22/Flight-Tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=Flight-Tracker&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1785675784" alt="Flight-Tracker"></a>
-    <a href="https://github.com/Cynid-22/Hashing-Algorithm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=Hashing-Algorithm&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1785675784" alt="Hashing-Algorithm"></a>
-    <a href="https://github.com/Cynid-22/True-Random-Number-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=True-Random-Number-Generator&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1785675784" alt="True-Random-Number-Generator"></a>
+    <a href="https://github.com/Cynid-22/TOTP-Authenticator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=TOTP-Authenticator&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1785766785" alt="TOTP-Authenticator"></a>
+    <a href="https://github.com/Cynid-22/Flight-Tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=Flight-Tracker&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1785766785" alt="Flight-Tracker"></a>
+    <a href="https://github.com/Cynid-22/Hashing-Algorithm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=Hashing-Algorithm&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1785766785" alt="Hashing-Algorithm"></a>
+    <a href="https://github.com/Cynid-22/True-Random-Number-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cynid-22&repo=True-Random-Number-Generator&theme=radical&bg_color=1F222E&title_color=E91E63&icon_color=F8D866&hide_border=true&show_icons=false&timestamp=1785766785" alt="True-Random-Number-Generator"></a>
 
   </p>
 
